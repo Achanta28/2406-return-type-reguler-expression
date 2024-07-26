@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+ margin-top: 25px;
+}
+.mainHeading {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.formLabel {
+  width:  100px;
+  display: inline-block;
+}
+ 
+.form{
+  background-color: rgb(221,173,117);
+  display: inline-block;
+  padding: 25px;
+  
+}
+.mainHeading{
+  text-align: center;
+  background-color: deeppink;
+  color: #000;
+}
+.formDiv{
+  margin: 20px;
+
+}
+.formLabel{
+  display: inline-block;
+  width: 130px;
+  text-align: left;
+
+}
+
+span{
+  display: inline-block;
+  width: 75px;
+  text-align: left;
+  margin-left: 20px;
+}
